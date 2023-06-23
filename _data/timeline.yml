@@ -1,17 +1,60 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Backend developer, Wakumo Vietnam, Danang, Vietnam
+  from: 12/2022
+  to: Now
+  description:
+  - Developed and maintained a gamified real estate system.
+  - Implemented new gamification features, such as achievements, shop, mission,  and reward.
+  - Built and maintained multiple microservices, each with its own PostgreSQL database for optimal performance and scalability.
+  - Designed and implemented complex data models to support various business requirements, and optimized database queries for faster retrieval times.
+  - Worked closely with the analytics team to write custom SQL queries that provided valuable insights (ORM).
+  - Designed and developed RESTful APIs using Ruby on Rails and NestJS, allowing for seamless integration with other systems and third-party services.
+  - Implemented robust authentication and authorization mechanisms to ensure secure access to sensitive data.
+  - Worked closely with the front-end development team to ensure API compatibility and provide support for front-end integration.
+  - Worked closely with the design team to ensure a seamless user experience and improve the overall usability of the system.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Backend developer, GoTECQ Vietnam, Danang, Vietnam
+  from: 03/2020
+  to: 12/2022
+  description:
+  - Conducted extensive research on medical examination and treatment processes in the US to gain insights into the healthcare industry.
+  - Designed and developed a complex healthcare support system based on the FHIR system, which includes:
+    - Doctor's appointments scheduling and management.
+    - Electronic health record.
+    - Diagnosis/Procedure code system.
+    - Business rules for each medical code case.
+    - Quality measure system for doctors. 
+  - Created data models and databases for each microservice in the system to ensure optimal performance and scalability.
+  - Wrote custom SQL queries to extract insights and provide valuable analytics reports (raw, not ORM).
+  - Optimized the system and database to handle over 1 million records with high performance and minimal downtime.
+  - Development, support, and maintenance of web services APIs.
+  - Build CI pipeline to automate lint and testing before deployment.
+  - Worked closely with the front-end development team to ensure API compatibility and provide support for front-end integration.
+  - Worked closely with the design team to ensure a seamless user experience and improve the overall usability of the system.
+  - Mentored interns on the company's tech stack (Linux, Python, code library, Postgresql,...).
+  - Utilized a variety of technologies in the tech stack, such as Linux, Docker, NGINX, Python (including Sanic and Gino), and PostgreSQL.
+
+- title: Game Developer Intern, Gameloft DAD, Danang, Vietnam
+  from: 11/2019
+  to: 01/2020
+  description:
+  - Led the UI/UX design and development of a platform game, resulting in a visually appealing and engaging user experience.
+  - Developed a module game for mobile using Cocos2dx
+  - Managed a team of three developers, providing guidance and support to ensure project success.
+  - Acted as a liaison between the development team and upper management, providing regular updates on project progress and addressing any concerns or issues that arose.
+  - Demonstrated excellent leadership and communication skills, fostering a collaborative and productive team environment.
+
+- title: Bachelor, Management Information System, Duy Tan University
+  from: 2017
+  to: 2021
+  description: 
+    University Scientific Research - Smart Traffic Light: 
+    - https://link.springer.com/chapter/10.1007/978-3-030-91387-8_14
+    - Led a team of three developers in the research and development of a Smart Traffic Light system, resulting in improved traffic flow and reduced congestion.
+    - Developed a flexible timing algorithm based on the number of vehicles present at the current intersection, using Python and various libraries such as YOLOv4, Flask, and ImageZMQ.
+    - Utilized PostgreSQL to store and manage traffic data, allowing for real-time analysis and optimization of the timing algorithm.
+    - Designed and developed a basic user interface using HTML, CSS, and JavaScript to allow for easy monitoring and adjustment of traffic light timings.
+    - Demonstrated strong leadership and project management skills, coordinating the efforts of the development team and ensuring successful project outcomes.
+    - Communicated regularly with a faculty advisor providing updates on project progress and addressing any concerns or issues that arose.
+    HONORS & AWARDS:
+    - 2018: Consolation prizes - Vietnam Olympiad in Informatics
+    - 2019: Best Design Award - 2019 CDIO Summer Camp Innovation In Eco-friendly life

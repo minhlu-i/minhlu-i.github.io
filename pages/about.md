@@ -8,7 +8,10 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I'm a skilled Backend Developer experienced in Python, NodeJS, and Ruby.
+I excel in crafting clean code and designing APIs for seamless data flow.
+With a detail-oriented approach and a knack for problem-solving, I collaborate effectively with teams to deliver robust backend solutions.
+Let's build the future together!
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
