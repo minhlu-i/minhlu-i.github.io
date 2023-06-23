@@ -3,21 +3,13 @@
   to: Now
   description:
   - Developed and maintained a gamified real estate system.
-
   - Implemented new gamification features, such as achievements, shop, mission,  and reward.
-
   - Built and maintained multiple microservices, each with its own PostgreSQL database for optimal performance and scalability.
-
   - Designed and implemented complex data models to support various business requirements, and optimized database queries for faster retrieval times.
-
   - Worked closely with the analytics team to write custom SQL queries that provided valuable insights (ORM).
-
   - Designed and developed RESTful APIs using Ruby on Rails and NestJS, allowing for seamless integration with other systems and third-party services.
-
   - Implemented robust authentication and authorization mechanisms to ensure secure access to sensitive data.
-
   - Worked closely with the front-end development team to ensure API compatibility and provide support for front-end integration.
-
   - Worked closely with the design team to ensure a seamless user experience and improve the overall usability of the system.
 
 - title: Backend developer, GoTECQ Vietnam, Danang, Vietnam
