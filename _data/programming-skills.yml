@@ -1,11 +1,11 @@
+- name: Python
+  percentage: 80
+  color: secondary
+
+- name: NodeJS
+  percentage: 70
+  color: primary
+
 - name: HTML5/CSS3
   percentage: 60
   color: danger
-
-- name: NodeJS
-  percentage: 80
-  color: primary
-
-- name: Python
-  percentage: 70
-  color: secondary
