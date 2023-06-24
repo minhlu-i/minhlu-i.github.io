@@ -1,7 +1,11 @@
-- name: Adobe Photoshop
-  percentage: 60
-  color: info
-
 - name: Imaging & Logical thinking
   percentage: 90
   color: success
+
+- name: Alige
+  percentage: 90
+  color: success
+
+- name: Adobe Photoshop
+  percentage: 60
+  color: info

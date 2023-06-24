@@ -3,21 +3,23 @@
   to: Now
   description:
   - Developed and maintained a gamified real estate system.
-  - Implemented new gamification features, such as achievements, shop, mission,  and reward.
+  - Implemented new gamification features, such as achievements, shop, mission, reward, ...
   - Built and maintained multiple microservices, each with its own PostgreSQL database for optimal performance and scalability.
-  - Designed and implemented complex data models to support various business requirements, and optimized database queries for faster retrieval times.
-  - Worked closely with the analytics team to write custom SQL queries that provided valuable insights (ORM).
-  - Designed and developed RESTful APIs using Ruby on Rails and NestJS, allowing for seamless integration with other systems and third-party services.
+  - Designed and implemented complex data models to support various business requirements
+  - Optimized database queries for faster retrieval times.
+  - Designed and developed RESTful APIs using NestJS and Ruby on Rails, allowing for seamless integration with other systems and third-party services.
   - Implemented robust authentication and authorization mechanisms to ensure secure access to sensitive data.
-  - Worked closely with the front-end development team to ensure API compatibility and provide support for front-end integration.
   - Worked closely with the design team to ensure a seamless user experience and improve the overall usability of the system.
+  - Worked closely with the front-end development team to ensure API compatibility and provide support for front-end integration.
+  - Worked closely with the analytics team to write custom SQL queries that provided valuable insights (ORM).
 
 - title: Backend developer, GoTECQ Vietnam, Danang, Vietnam
   from: 03/2020
   to: 12/2022
   description:
+  - Utilized a variety of technologies in the tech stack, such as Linux, Docker, NGINX, Python (Sanic and Gino, ...), PostgreSQL, ...
   - Conducted extensive research on medical examination and treatment processes in the US to gain insights into the healthcare industry.
-  - Designed and developed a complex healthcare support system based on the FHIR system, which includes:
+  - Designed and developed a complex healthcare support system based on the FHIR system, such as
     - Doctor's appointments scheduling and management.
     - Electronic health record.
     - Diagnosis/Procedure code system.
@@ -31,7 +33,6 @@
   - Worked closely with the front-end development team to ensure API compatibility and provide support for front-end integration.
   - Worked closely with the design team to ensure a seamless user experience and improve the overall usability of the system.
   - Mentored interns on the company's tech stack (Linux, Python, code library, Postgresql,...).
-  - Utilized a variety of technologies in the tech stack, such as Linux, Docker, NGINX, Python (including Sanic and Gino), and PostgreSQL.
 
 - title: Game Developer Intern, Gameloft DAD, Danang, Vietnam
   from: 11/2019
@@ -46,15 +47,11 @@
 - title: Bachelor, Management Information System, Duy Tan University
   from: 2017
   to: 2021
-  description: 
-    University Scientific Research - Smart Traffic Light: 
-    - https://link.springer.com/chapter/10.1007/978-3-030-91387-8_14
+  description:
+    - University Scientific Research - Smart Traffic Light - https://link.springer.com/chapter/10.1007/978-3-030-91387-8_14
     - Led a team of three developers in the research and development of a Smart Traffic Light system, resulting in improved traffic flow and reduced congestion.
     - Developed a flexible timing algorithm based on the number of vehicles present at the current intersection, using Python and various libraries such as YOLOv4, Flask, and ImageZMQ.
     - Utilized PostgreSQL to store and manage traffic data, allowing for real-time analysis and optimization of the timing algorithm.
     - Designed and developed a basic user interface using HTML, CSS, and JavaScript to allow for easy monitoring and adjustment of traffic light timings.
     - Demonstrated strong leadership and project management skills, coordinating the efforts of the development team and ensuring successful project outcomes.
     - Communicated regularly with a faculty advisor providing updates on project progress and addressing any concerns or issues that arose.
-    HONORS & AWARDS:
-    - 2018: Consolation prizes - Vietnam Olympiad in Informatics
-    - 2019: Best Design Award - 2019 CDIO Summer Camp Innovation In Eco-friendly life

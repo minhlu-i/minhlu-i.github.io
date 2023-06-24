@@ -1,10 +1,14 @@
+- name: NodeJS
+  percentage: 70
+  color: primary
+
 - name: Python
   percentage: 80
   color: secondary
 
-- name: NodeJS
-  percentage: 70
-  color: primary
+- name: PostgreSQL
+  percentage: 90
+  color: success
 
 - name: HTML5/CSS3
   percentage: 60
