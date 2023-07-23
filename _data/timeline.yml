@@ -19,12 +19,7 @@
   description:
   - Utilized a variety of technologies in the tech stack, such as Linux, Docker, NGINX, Python (Sanic and Gino, ...), PostgreSQL, ...
   - Conducted extensive research on medical examination and treatment processes in the US to gain insights into the healthcare industry.
-  - Designed and developed a complex healthcare support system based on the FHIR system, such as
-    - Doctor's appointments scheduling and management.
-    - Electronic health record.
-    - Diagnosis/Procedure code system.
-    - Business rules for each medical code case.
-    - Quality measure system for doctors. 
+  - Designed and developed a complex healthcare support system based on the FHIR system (Doctor's appointments scheduling and management, Electronic health record, Diagnosis/Procedure code system, Business rules for each medical code case, Quality measure system for doctors,...) 
   - Created data models and databases for each microservice in the system to ensure optimal performance and scalability.
   - Wrote custom SQL queries to extract insights and provide valuable analytics reports (raw, not ORM).
   - Optimized the system and database to handle over 1 million records with high performance and minimal downtime.
@@ -33,16 +28,6 @@
   - Worked closely with the front-end development team to ensure API compatibility and provide support for front-end integration.
   - Worked closely with the design team to ensure a seamless user experience and improve the overall usability of the system.
   - Mentored interns on the company's tech stack (Linux, Python, code library, Postgresql,...).
-
-- title: Game Developer Intern, Gameloft DAD, Danang, Vietnam
-  from: 11/2019
-  to: 01/2020
-  description:
-  - Led the UI/UX design and development of a platform game, resulting in a visually appealing and engaging user experience.
-  - Developed a module game for mobile using Cocos2dx
-  - Managed a team of three developers, providing guidance and support to ensure project success.
-  - Acted as a liaison between the development team and upper management, providing regular updates on project progress and addressing any concerns or issues that arose.
-  - Demonstrated excellent leadership and communication skills, fostering a collaborative and productive team environment.
 
 - title: Bachelor, Management Information System, Duy Tan University
   from: 2017
