@@ -4,7 +4,7 @@
 
 - name: Database design/System design/API Design
   percentage: 90
-  color: primary
+  color: secondary
 
 - name: Imaging & Logical thinking
   percentage: 90
