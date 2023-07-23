@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>portfolYOU</h1>
+  <h1>minhlu-i.github.io</h1>
   <i>A Personal GitHub Pages.</i>
   <a href="https://minhlu-i.github.io">Home Page</a>
 </div>
