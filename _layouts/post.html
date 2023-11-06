@@ -29,9 +29,15 @@ layout: page
 </p>
 
 {{ content }}
-
-{% if page.comments %}
 <div class="pt-5">
-  {% include blog/disqus.html %}
+  <script src="https://utteranc.es/client.js"
+  repo="[ENTER REPO HERE]"
+  issue-term="pathname"
+  label="Utterances"
+  theme="github-light"
+  crossorigin="anonymous"
+  async>
+  </script>
+  <noscript>Please enable JavaScript to view the comments powered by Utterances.</a></noscript>
 </div>
-{% endif %}
+  <!-- getTheme() -->

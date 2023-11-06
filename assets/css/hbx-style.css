@@ -7,7 +7,7 @@
 
 body {
   background: #E5E5E5;
-  background-image: url("{{ '/assets/hbx-bg.ico' | relative_url }}");
+  background-image: url("{{ '/assets/img/hbx/hbx-bg.ico' | relative_url }}");
 }
 
 #card-front {
